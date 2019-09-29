@@ -1,5 +1,5 @@
 ### Description
-A GXP App on React Native and Expo
+A Restaurant App on React Native and Expo
 
 ### Dependencies
 * expo cli
